@@ -37,3 +37,16 @@ https://public.tableau.com/views/Project-1_17698434231980/Superstore_dashboard?:
 - Total Profit
 - Region-wise Sales
 - Category-wise Profit Distribution
+
+## Excel Dashboard Project
+
+This interactive Excel dashboard analyzes:
+
+• Firm-wise Sales  
+• State-wise Sales  
+• GST-wise Analysis  
+• Monthly Sales Trends  
+• Product-wise Distribution  
+
+Download Excel File:  
+[Click here to download](data/Sales_Analysis_Dashboard.xlsx)
